@@ -1,0 +1,31 @@
+#mainTitle {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 28px;
+  color: limegreen;
+}
+
+#uKnow {
+  border: 3px solid limegreen;
+  background-image: url("../imagens/fundo.png");
+}
+
+.subTitle {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 22px;
+  color: limegreen;
+}
+
+img {
+  width: 300px;
+  border: 8px solid limegreen;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  margin-right: 10%;
+  margin-left: 10%;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+}
