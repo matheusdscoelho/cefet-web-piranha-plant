@@ -26,16 +26,33 @@ table {
   border-spacing: 0;
 }
 
-th{
-    font-size: 26px;
+th {
+  font-size: 26px;
 }
 
-td, p{
-    font-size: 20px;
+td,
+p {
+  font-size: 20px;
 }
 
-li{
-    font-size: 16px;
+#tableHeader {
+  background-color: gray;
+  color: white;
+}
+
+#tel,
+#email {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+ul {
+  list-style-type: decimal;
+}
+
+li {
+  font-size: 16px;
 }
 
 table,

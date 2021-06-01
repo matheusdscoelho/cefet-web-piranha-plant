@@ -15,6 +15,22 @@
   color: limegreen;
 }
 
+#uKnow p {
+  margin: 10px;
+}
+
+#firstP{
+    display: inline;
+}
+
+ins{
+    text-decoration-color: limegreen;
+}
+
+#quote{
+    margin-left: 60px;
+}
+
 img {
   width: 300px;
   border: 8px solid limegreen;
